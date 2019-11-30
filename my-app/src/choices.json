@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto",
+    "image": "./images/naruto.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gaara",
+    "image": "./images/gaara.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Itachi",
+    "image": "./images/itachi.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hinata",
+    "image": "./images/hinata.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sasuke",
+    "image": "./images/sasuke.jpg"
+  },
+  {
+    "id": 6,
+    "name": "rock lee",
+    "image": "./images/rocklee.jpg"
+  },
+  {
+    "id": 7,
+    "name": "kakashi",
+    "image": "./images/kakashi.jpg"
+  },
+  {
+    "id": 8,
+    "name": "jiraiya",
+    "image": "./images/jiraiya.jpg"
+  },
+  {
+    "id": 9,
+    "name": "orochimaru",
+    "image": "./images/orochimaru.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sakura",
+    "image": "./images/sakura.jpg"
+  }
+]
